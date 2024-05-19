@@ -1,0 +1,32 @@
+.container {
+    padding: 20px;
+}
+
+.head {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item {
+    display: block;
+    padding: 10px;
+}
+
+button {
+    padding: 0.4rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(31, 28, 25);
+    color: #ffffff;
+}
+
+button:hover {
+    background-color: #ffffff;
+    color: black;
+}
+
+.img {
+    max-width: 700px;
+    max-height: 500px;
+}
